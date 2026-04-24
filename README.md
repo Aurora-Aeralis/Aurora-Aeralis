@@ -1,5 +1,5 @@
 ![logo](https://imgur.com/27eOCT3.png)
-<h1 align="center">Hello, I am known as @off_grid</h1>
+<h1 align="center">Hello, I am known as Aurora</h1>
 <h3 align="center">A passionless developer. No cap.</h3>
 
 </p><img align="left" src="https://komarev.com/ghpvc/?username=DAaCollective-Angel&label=Profile%20views&color=0e75b6&style=flat" alt="daa" /></p>
@@ -10,6 +10,8 @@
 - Secondary projects: **Spark** *(Coding & Development extension for __DAa V2__ <2026[h2]/->)*, **DAaCode V2** *(DAaCode for the next generation <2026[h2]/->)*
 - Future projects: ...
 - Old projects: ...
+
+- All branches named "ai-prs" are maintained by AI. 
 
 <h1 align="left">⠀</h1>
 
